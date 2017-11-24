@@ -1,0 +1,168 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 1995473,
+    "startIndex": 1,
+    "pageSize": 10,
+    "currentPage": 1,
+    "pages": 199548,
+    "orderBy": "newest",
+    "results": [
+      {
+        "id":
+          "technology/2017/nov/21/net-neutrality-rules-to-be-ditched-as-expected-fcc-decision-sparks-protests",
+        "type": "article",
+        "sectionId": "technology",
+        "sectionName": "Technology",
+        "webPublicationDate": "2017-11-21T16:10:47Z",
+        "webTitle":
+          "Net neutrality rules to be ditched as expected FCC decision sparks protests",
+        "webUrl":
+          "https://www.theguardian.com/technology/2017/nov/21/net-neutrality-rules-to-be-ditched-as-expected-fcc-decision-sparks-protests",
+        "apiUrl":
+          "https://content.guardianapis.com/technology/2017/nov/21/net-neutrality-rules-to-be-ditched-as-expected-fcc-decision-sparks-protests",
+        "isHosted": false
+      },
+      {
+        "id":
+          "money/2017/nov/21/the-masculine-mystique-why-men-cant-ditch-the-baggage-of-being-a-bloke",
+        "type": "article",
+        "sectionId": "money",
+        "sectionName": "Money",
+        "webPublicationDate": "2017-11-21T16:07:27Z",
+        "webTitle":
+          "The 'masculine mystique' вЂ“ why men can't ditch the baggage of being a bloke",
+        "webUrl":
+          "https://www.theguardian.com/money/2017/nov/21/the-masculine-mystique-why-men-cant-ditch-the-baggage-of-being-a-bloke",
+        "apiUrl":
+          "https://content.guardianapis.com/money/2017/nov/21/the-masculine-mystique-why-men-cant-ditch-the-baggage-of-being-a-bloke",
+        "isHosted": false,
+        "pillarId": "pillar/lifestyle",
+        "pillarName": "Lifestyle"
+      },
+      {
+        "id":
+          "artanddesign/2017/nov/21/largest-collection-of-modigliani-nudes-ever-seen-in-uk-go-on-show",
+        "type": "article",
+        "sectionId": "artanddesign",
+        "sectionName": "Art and design",
+        "webPublicationDate": "2017-11-21T16:07:15Z",
+        "webTitle":
+          "Largest collection of Modigliani nudes ever seen in UK go on show",
+        "webUrl":
+          "https://www.theguardian.com/artanddesign/2017/nov/21/largest-collection-of-modigliani-nudes-ever-seen-in-uk-go-on-show",
+        "apiUrl":
+          "https://content.guardianapis.com/artanddesign/2017/nov/21/largest-collection-of-modigliani-nudes-ever-seen-in-uk-go-on-show",
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id":
+          "politics/blog/live/2017/nov/21/former-brexit-minister-urges-may-to-abandon-talks-with-eu-and-prepare-for-no-deal-politics-live",
+        "type": "liveblog",
+        "sectionId": "politics",
+        "sectionName": "Politics",
+        "webPublicationDate": "2017-11-21T16:01:51Z",
+        "webTitle":
+          "No 10: ECJ jurisdiction over EU nationals 'will end after Brexit transition' - Politics live",
+        "webUrl":
+          "https://www.theguardian.com/politics/blog/live/2017/nov/21/former-brexit-minister-urges-may-to-abandon-talks-with-eu-and-prepare-for-no-deal-politics-live",
+        "apiUrl":
+          "https://content.guardianapis.com/politics/blog/live/2017/nov/21/former-brexit-minister-urges-may-to-abandon-talks-with-eu-and-prepare-for-no-deal-politics-live",
+        "isHosted": false
+      },
+      {
+        "id":
+          "education/2017/nov/21/graduate-in-1m-claim-was-badly-let-down-by-oxford-court-told",
+        "type": "article",
+        "sectionId": "education",
+        "sectionName": "Education",
+        "webPublicationDate": "2017-11-21T15:57:14Z",
+        "webTitle":
+          "Graduate in ВЈ1m claim was badly let down by Oxford, court told",
+        "webUrl":
+          "https://www.theguardian.com/education/2017/nov/21/graduate-in-1m-claim-was-badly-let-down-by-oxford-court-told",
+        "apiUrl":
+          "https://content.guardianapis.com/education/2017/nov/21/graduate-in-1m-claim-was-badly-let-down-by-oxford-court-told",
+        "isHosted": false
+      },
+      {
+        "id":
+          "world/2017/nov/21/robert-mugabe-resigns-as-president-of-zimbabwe",
+        "type": "article",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webPublicationDate": "2017-11-21T15:51:12Z",
+        "webTitle": "Robert Mugabe resigns as president of Zimbabwe",
+        "webUrl":
+          "https://www.theguardian.com/world/2017/nov/21/robert-mugabe-resigns-as-president-of-zimbabwe",
+        "apiUrl":
+          "https://content.guardianapis.com/world/2017/nov/21/robert-mugabe-resigns-as-president-of-zimbabwe",
+        "isHosted": false
+      },
+      {
+        "id":
+          "media/2017/nov/21/charlie-roses-cbs-colleagues-react-to-allegations-he-does-not-get-a-pass-here",
+        "type": "article",
+        "sectionId": "media",
+        "sectionName": "Media",
+        "webPublicationDate": "2017-11-21T15:47:09Z",
+        "webTitle":
+          "Charlie Rose's CBS colleagues react to allegations: 'He does not get a pass here'",
+        "webUrl":
+          "https://www.theguardian.com/media/2017/nov/21/charlie-roses-cbs-colleagues-react-to-allegations-he-does-not-get-a-pass-here",
+        "apiUrl":
+          "https://content.guardianapis.com/media/2017/nov/21/charlie-roses-cbs-colleagues-react-to-allegations-he-does-not-get-a-pass-here",
+        "isHosted": false
+      },
+      {
+        "id":
+          "football/2017/nov/21/mike-ashley-seeking-improvement-in-amanda-staveley-near-300-million-bid-newcastle-united-sale",
+        "type": "article",
+        "sectionId": "football",
+        "sectionName": "Football",
+        "webPublicationDate": "2017-11-21T15:45:21Z",
+        "webTitle":
+          "Ashley seeks improvement in StaveleyвЂ™s near-ВЈ300m bid for Newcastle United",
+        "webUrl":
+          "https://www.theguardian.com/football/2017/nov/21/mike-ashley-seeking-improvement-in-amanda-staveley-near-300-million-bid-newcastle-united-sale",
+        "apiUrl":
+          "https://content.guardianapis.com/football/2017/nov/21/mike-ashley-seeking-improvement-in-amanda-staveley-near-300-million-bid-newcastle-united-sale",
+        "isHosted": false,
+        "pillarId": "pillar/sport",
+        "pillarName": "Sport"
+      },
+      {
+        "id":
+          "society/2017/nov/21/scotlands-minimum-pricing-for-alcohol-to-take-effect-in-may-2018",
+        "type": "article",
+        "sectionId": "society",
+        "sectionName": "Society",
+        "webPublicationDate": "2017-11-21T15:42:59Z",
+        "webTitle":
+          "Scotland's minimum pricing for alcohol to take effect in May 2018",
+        "webUrl":
+          "https://www.theguardian.com/society/2017/nov/21/scotlands-minimum-pricing-for-alcohol-to-take-effect-in-may-2018",
+        "apiUrl":
+          "https://content.guardianapis.com/society/2017/nov/21/scotlands-minimum-pricing-for-alcohol-to-take-effect-in-may-2018",
+        "isHosted": false
+      },
+      {
+        "id":
+          "politics/2017/nov/21/deals-are-for-wimps-brexiters-ramp-up-fighting-talk",
+        "type": "article",
+        "sectionId": "politics",
+        "sectionName": "Politics",
+        "webPublicationDate": "2017-11-21T15:40:12Z",
+        "webTitle": "Deals are for wimps: Brexiters ramp up the fighting talk",
+        "webUrl":
+          "https://www.theguardian.com/politics/2017/nov/21/deals-are-for-wimps-brexiters-ramp-up-fighting-talk",
+        "apiUrl":
+          "https://content.guardianapis.com/politics/2017/nov/21/deals-are-for-wimps-brexiters-ramp-up-fighting-talk",
+        "isHosted": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 1,
+    "content": {
+      "id":
+        "small-business-network/2016/feb/22/startup-of-the-year-competition-entry-pavillion-at-the-park",
+      "type": "article",
+      "sectionId": "small-business-network",
+      "sectionName": "Guardian Small Business Network",
+      "webPublicationDate": "2016-02-22T15:40:46Z",
+      "webTitle":
+        "Startup of the Year 2015-2016 competition entry: Pavillion at the Park",
+      "webUrl":
+        "https://www.theguardian.com/small-business-network/2016/feb/22/startup-of-the-year-competition-entry-pavillion-at-the-park",
+      "apiUrl":
+        "https://content.guardianapis.com/small-business-network/2016/feb/22/startup-of-the-year-competition-entry-pavillion-at-the-park",
+      "blocks": {
+        "body": [
+          {
+            "id": "56bb2328e4b042041b31eea1",
+            "bodyHtml":
+              "<p>Emma Garrett, director of Pavillion at the Park, explains why the business should win the Startup of the Year category of the Guardian <a href=\"http://www.theguardian.com/small-business-network/small-business-showcase\">Small Business Showcase</a> competition:</p> <blockquote class=\"quoted\"> <p>The Pavilion at the Park is a cafe in a park in the centre of Bedford. This small, independent startup is very much focused on being a part of the community and offers customers much more than just food and drink. In a highly competitive local market, the Pavilion stands out from the crowd thanks to its talented chef, Marcus Webber, who cooks using the freshest locally sourced seasonal ingredients and delivers a variety of dishes to suit every palate and budget. <br /></p> <p>The Pavilion is also well known for its exceptional customer service standards and the added value offered to customers through a range of sporting, social, culinary, cultural and community workshops and events for all the family. <br /></p> <p>Creative concepts such as Frozen sing-a-long film showings, Owl Prowls, My iPad and Me education sessions, jazz nights and regular art exhibitions are a real draw. We also hold supper clubs - an ingenious communal dining concept, launched to delight BedfordвЂ™s growing number of discerning foodies. Being able to spend an evening in the company of like-minded people in what is undoubtedly one of the most beautiful locations in Bedford, makes each one an amazing event. <br /></p> <p>Having been trading for just over a year, turnover is in the region of ВЈ330,000. Awards to date include Highly Commended in the The Bedfordshire Food and Drink Awards 2015 in the Best New Business category and most recently Best New Business in the Bedfordshire Business Women Awards 2016.</p> </blockquote> <p><em>All entries which meet the competition criteria are published and our judging panel select a shortlist of the top three for each category. Winners are announced at an awards ceremony in summer 2016.</em></p>",
+            "bodyTextSummary":
+              "Emma Garrett, director of Pavillion at the Park, explains why the business should win the Startup of the Year category of the Guardian Small Business Showcase competition: The Pavilion at the Park is a cafe in a park in the centre of Bedford. This small, independent startup is very much focused on being a part of the community and offers customers much more than just food and drink. In a highly competitive local market, the Pavilion stands out from the crowd thanks to its talented chef, Marcus Webber, who cooks using the freshest locally sourced seasonal ingredients and delivers a variety of dishes to suit every palate and budget. The Pavilion is also well known for its exceptional customer service standards and the added value offered to customers through a range of sporting, social, culinary, cultural and community workshops and events for all the family. Creative concepts such as Frozen sing-a-long film showings, Owl Prowls, My iPad and Me education sessions, jazz nights and regular art exhibitions are a real draw. We also hold supper clubs - an ingenious communal dining concept, launched to delight BedfordвЂ™s growing number of discerning foodies. Being able to spend an evening in the company of like-minded people in what is undoubtedly one of the most beautiful locations in Bedford, makes each one an amazing event. Having been trading for just over a year, turnover is in the region of ВЈ330,000. Awards to date include Highly Commended in the The Bedfordshire Food and Drink Awards 2015 in the Best New Business category and most recently Best New Business in the Bedfordshire Business Women Awards 2016. All entries which meet the competition criteria are published and our judging panel select a shortlist of the top three for each category. Winners are announced at an awards ceremony in summer 2016.",
+            "attributes": {},
+            "published": true,
+            "createdDate": "2016-02-10T11:46:48Z",
+            "firstPublishedDate": "2016-02-10T11:48:33Z",
+            "publishedDate": "2016-02-22T15:40:27Z",
+            "lastModifiedDate": "2016-02-22T15:40:27Z",
+            "contributors": [],
+            "elements": [
+              {
+                "type": "text",
+                "assets": [],
+                "textTypeData": {
+                  "html":
+                    "<p>Emma Garrett, director of Pavillion at the Park, explains why the business should win the Startup of the Year category of the Guardian <a href=\"http://www.theguardian.com/small-business-network/small-business-showcase\">Small Business Showcase</a> competition:</p> \n<blockquote class=\"quoted\"> \n <p>The Pavilion at the Park is a cafe in a park in the centre of Bedford. This small, independent startup is very much focused on being a part of the community and offers customers much more than just food and drink. In a highly competitive local market, the Pavilion stands out from the crowd thanks to its talented chef, Marcus Webber, who cooks using the freshest locally sourced seasonal ingredients and delivers a variety of dishes to suit every palate and budget. <br /></p> \n <p>The Pavilion is also well known for its exceptional customer service standards and the added value offered to customers through a range of sporting, social, culinary, cultural and community workshops and events for all the family. <br /></p> \n <p>Creative concepts such as Frozen sing-a-long film showings, Owl Prowls, My iPad and Me education sessions, jazz nights and regular art exhibitions are a real draw. We also hold supper clubs - an ingenious communal dining concept, launched to delight BedfordвЂ™s growing number of discerning foodies. Being able to spend an evening in the company of like-minded people in what is undoubtedly one of the most beautiful locations in Bedford, makes each one an amazing event. <br /></p> \n <p>Having been trading for just over a year, turnover is in the region of ВЈ330,000. Awards to date include Highly Commended in the The Bedfordshire Food and Drink Awards 2015 in the Best New Business category and most recently Best New Business in the Bedfordshire Business Women Awards 2016.</p> \n</blockquote> \n<p><em>All entries which meet the competition criteria are published and our judging panel select a shortlist of the top three for each category. Winners are announced at an awards ceremony in summer 2016.</em></p>"
+                }
+              }
+            ]
+          }
+        ],
+        "totalBodyBlocks": 1
+      },
+      "isHosted": false
+    }
+  }
+}
